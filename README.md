@@ -9,17 +9,6 @@ A2
 A3
 ![route](3.png)
 ---
-[Yida Chen]
----
-A1  
-![route](1.png)
----
-A2  
-![route](2.PNG)
----
-A3
-![route](3.png)
----
 A4
 ---
 A5
