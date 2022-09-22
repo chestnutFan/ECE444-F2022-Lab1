@@ -22,4 +22,8 @@ https://github.com/chestnutFan/ECE444-F2022-EP
 A7  
 ![route](7_1.png)  
 ![route](7_2.PNG)  
----
+---  
+A8  
+![route](8_1.png)  
+![route](8_2.png)  
+---  
